@@ -2,9 +2,9 @@
 
 <img src="docs/dashboard_preview.png" width="800">
 
-**Problema:** entender e prever vendas de uma loja (faturamento, ticket médio, coortes, churn, teste A/B).  
-**Entregável:** pipeline de dados (ETL) + análises estatísticas + modelos preditivos + dashboard (Excel/Power BI).  
-**História:** *“Como eu usei dados de vendas para descobrir drivers de receita e prever os próximos 3 meses.”*
+**Problema:** entender e prever vendas de uma loja (faturamento, ticket médio, teste A/B).  
+**Entregável:** pipeline de dados (ETL) + análises estatísticas + modelos preditivos + dashboard (Excel).  
+**História:** *“Como eu usei dados de vendas para descobrir insights de vendas.”*
 
 ---
 
@@ -22,14 +22,19 @@ ecommerce-analytics/
   README
   requirements
 ---
-#📓 Notebooks
 
-01_eda.ipynb — nulos/outliers, distribuições, correlações; gráficos (matplotlib).
+## 📓 Notebooks
 
-02_estatistica.ipynb — IC95%, t‑test A/B, qui‑quadrado, Pearson/Spearman.
+- **01_eda.ipynb** — análise exploratória: nulos, outliers, distribuições, correlações, gráficos.  
+- **02_estatistica.ipynb** — intervalos de confiança, t-test A/B, qui-quadrado, correlações (Pearson/Spearman).  
+- **03_modelos.ipynb** — regressão linear (drivers de ticket) e previsão de vendas (Prophet/ARIMA).  
 
-#🛠️ Stack
+---
 
-Python (pandas, matplotlib, scikit‑learn, statsmodels, prophet) • PostgreSQL (CTEs, janelas) • Excel 
+## 🛠️ Stack
+
+- **Python:** pandas, matplotlib 
+- **PostgreSQL:** DDL, CTEs, funções janela, views  
+- **Excel:** dashboards interativos e KPIs  
 
 
