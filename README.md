@@ -19,7 +19,7 @@ Clientes de **36–50 anos** concentram o maior gasto, enquanto o **ticket médi
 ## 📂 Estrutura do projeto
 ```
 ecommerce-analytics/
-├── dashboard/      # Dashboards (Excel, Power BI)
+├── dashboard/      # Dashboards (Excel)
 ├── data/           
 │   ├── raw/        # Dados brutos
 │   └── processed/  # Dados processados
@@ -86,6 +86,7 @@ ecommerce-analytics/
    | Beauty        | 771        |
 
    ➝ **Clothing** lidera em volume, mas **Electronics** gera mais receita (preço médio mais alto).  
+
 
 
 
