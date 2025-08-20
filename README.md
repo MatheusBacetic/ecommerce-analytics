@@ -13,6 +13,7 @@ As categorias **Electronics, Clothing e Beauty** têm receitas semelhantes, mas 
 Clientes de **36–50 anos** concentram o maior gasto, enquanto o **ticket médio é praticamente igual entre homens e mulheres**.  
 
 ## 📂 Estrutura do projeto
+```
 ecommerce-analytics/
 ├── dashboard/      # Dashboards (Excel, Power BI)
 ├── data/           
@@ -21,12 +22,11 @@ ecommerce-analytics/
 ├── notebooks/      # Jupyter notebooks (EDA, Modelos, Estatísticas)
 ├── sql/            # Scripts SQL (DDL, Queries)
 ├── src/            # Código ETL, features, utils
-├── tests/          # Testes automáticos
 ├── .gitattributes  
 ├── .gitignore      
 ├── README.md       
 └── requirements.txt
-
+```
 ---
 
 ## 📓 Notebooks
@@ -82,6 +82,7 @@ ecommerce-analytics/
    | Beauty        | 771        |
 
    ➝ **Clothing** lidera em volume, mas **Electronics** gera mais receita (preço médio mais alto).  
+
 
 
 
