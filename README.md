@@ -3,13 +3,17 @@
 <img src="/dashboard/Captura de tela 2025-08-19 142017.png" width="800">
 
 **Problema:** entender e prever vendas de uma loja (faturamento, ticket médio, teste A/B).  
+
 **Entregável:** pipeline de dados (ETL) + análises estatísticas + modelos preditivos + dashboard (Excel).  
+
 **História:** *“Como eu usei dados de vendas para descobrir insights sobre compradores.”*
 ---
 ### 📌 Resumo Executivo
 
 As vendas apresentam **sazonalidade** ao longo do ano, com pico em maio.  
-As categorias **Electronics, Clothing e Beauty** têm receitas semelhantes, mas **Electronics lidera** em faturamento.  
+
+As categorias **Electronics, Clothing e Beauty** têm receitas semelhantes, mas **Electronics lidera** em faturamento. 
+
 Clientes de **36–50 anos** concentram o maior gasto, enquanto o **ticket médio é praticamente igual entre homens e mulheres**.  
 
 ## 📂 Estrutura do projeto
@@ -82,6 +86,7 @@ ecommerce-analytics/
    | Beauty        | 771        |
 
    ➝ **Clothing** lidera em volume, mas **Electronics** gera mais receita (preço médio mais alto).  
+
 
 
 
