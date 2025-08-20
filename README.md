@@ -6,7 +6,7 @@
 
 **Entregável:** pipeline de dados (ETL) + análises estatísticas + modelos preditivos + dashboard (Excel).  
 
-**História:** *“Como eu usei dados de vendas para descobrir insights sobre compradores.”*
+*“Como eu usei dados de vendas para descobrir insights sobre compradores.”*
 ---
 ### 📌 Resumo Executivo
 
@@ -86,6 +86,7 @@ ecommerce-analytics/
    | Beauty        | 771        |
 
    ➝ **Clothing** lidera em volume, mas **Electronics** gera mais receita (preço médio mais alto).  
+
 
 
 
